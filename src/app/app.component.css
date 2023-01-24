@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://www.teahub.io/photos/full/99-994473_fondos-para-paginas-web.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu{
+    text-align: center;
+    
+}
+
+.textos-header{
+    text-align: center;
+}
